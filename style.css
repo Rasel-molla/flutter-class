@@ -1,0 +1,189 @@
+*{
+margin: 0px;
+padding: 0px;
+background-image: url("");
+;
+}
+.cart{
+    border-radius: 10px;
+    background-color: aqua;
+    box-shadow: 5px 5px ;
+}
+.bg-color{
+    background: radial-gradient(circle at 33% 100%, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+
+}
+
+/* 
+<!-- class 4 start -->
+<!-- video formate start-->
+
+<iframe width="395" height="220"
+src="https://www.youtube.com/embed/ZFJ9DTbp1Vc?start=2"
+ title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; 
+  clipboard-write; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen>
+ </iframe>
+
+   <!-- video formate end-->
+
+ 
+          
+
+<div class="entry-content open-sans-font">                                                             
+<p class="m-2 text-start">
+Class03
+</p>
+<p class="text-start">                    
+<a class="btn btn-primary"  class="btn notification_btn">
+ <a href="#"></a>
+ Code open
+</a>
+</p>                                        
+<div class="collapse fade" id="collapseExample4">
+<div class="container">
+ <div class="row">
+   <p class="m-2">
+    
+   },
+   front: Container(
+     decoration: BoxDecoration(
+       color: Color(0xFF006666),
+       borderRadius: BorderRadius.all(Radius.circular(8.0)),
+     ),
+     child: Column(
+       mainAxisAlignment: MainAxisAlignment.center,
+       children: <Widget>[
+         Text('Front', style: Theme.of(context).textTheme.headline1),
+         Text('Click here to flip back',
+   
+
+   </p>
+  
+ </div>
+</div>
+</div>                                                                                               
+</div>
+
+
+
+</div>
+</div>
+</div>
+
+<!-- class 4 end -->            
+<!-- class 5 start -->
+<!-- video formate start-->
+
+<iframe width="395" height="220"
+src="https://www.youtube.com/embed/ZFJ9DTbp1Vc?start=2"
+ title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; 
+  clipboard-write; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen>
+ </iframe>
+
+   <!-- video formate end-->
+
+ 
+          
+
+<div class="entry-content open-sans-font">                                                             
+<p class="m-2 text-start">
+Class03
+</p>
+<p class="text-start">                    
+<a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample4" role="button" aria-expanded="false" aria-controls="collapseExample" class="btn notification_btn">
+ Code open
+</a>
+</p>                                        
+<div class="collapse fade" id="collapseExample4">
+<div class="container">
+ <div class="row">
+   <p class="m-2">
+    
+   },
+   front: Container(
+     decoration: BoxDecoration(
+       color: Color(0xFF006666),
+       borderRadius: BorderRadius.all(Radius.circular(8.0)),
+     ),
+     child: Column(
+       mainAxisAlignment: MainAxisAlignment.center,
+       children: <Widget>[
+         Text('Front', style: Theme.of(context).textTheme.headline1),
+         Text('Click here to flip back',
+   
+
+   </p>
+  
+ </div>
+</div>
+</div>                                                                                               
+</div>
+
+
+
+</div>
+</div>
+</div>
+
+
+<!-- class 5 end -->
+
+<!-- class 6 start -->
+<!-- video formate start-->
+
+<iframe width="395" height="220"
+src="https://www.youtube.com/embed/ZFJ9DTbp1Vc?start=2"
+ title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; 
+  clipboard-write; encrypted-media; gyroscope;
+   picture-in-picture" allowfullscreen>
+ </iframe>
+
+   <!-- video formate end-->
+
+ 
+          
+
+<div class="entry-content open-sans-font">                                                             
+<p class="m-2 text-start">
+Class03
+</p>
+<p class="text-start">                    
+<a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample4" role="button" aria-expanded="false" aria-controls="collapseExample" class="btn notification_btn">
+ Code open
+</a>
+</p>                                        
+<div class="collapse fade" id="collapseExample4">
+<div class="container">
+ <div class="row">
+   <p class="m-2">
+    
+   },
+   front: Container(
+     decoration: BoxDecoration(
+       color: Color(0xFF006666),
+       borderRadius: BorderRadius.all(Radius.circular(8.0)),
+     ),
+     child: Column(
+       mainAxisAlignment: MainAxisAlignment.center,
+       children: <Widget>[
+         Text('Front', style: Theme.of(context).textTheme.headline1),
+         Text('Click here to flip back',
+   
+
+   </p>
+  
+ </div>
+</div>
+</div>                                                                                               
+</div>
+
+
+
+</div>
+</div>
+</div> */
